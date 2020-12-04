@@ -1,2 +1,2 @@
 # AFE-LUISS
-A course in AFE LUISS. Home assignment 2.
+A home assignemnt in machine learning of course in Advanced Financial Economics in LUISS.
